@@ -147,7 +147,7 @@ int main(){
         }
         catch (exception &e)
         {
-            cout <<
+            cout << "Check for the values entered." << endl;
         }
     }
 }
